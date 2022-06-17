@@ -48,3 +48,6 @@ Differences:
   11TH:
      IN UI specs I don't find any "card" component border BUT,
      IN THE CODED RESULT It is given 1 px.
+     
+  Improvements:
+     =>I think the "cardDescriptions" text "Refus the Dog" should have 2 f's in Refus, i.e it should be "Reffus the Dog".
