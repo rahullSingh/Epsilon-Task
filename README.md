@@ -49,6 +49,9 @@ Differences:
      IN UI specs I don't find any "card" component border BUT,
      IN THE CODED RESULT It is given 1 px.
      
+  12TH:
+    IN UI specs "REFFUS THE DOG" is in Capital form But,
+    IN THE CODED RESULT it is small.
   Improvements:
      =>I think the "cardDescriptions" text "REFUS THE DOG" should have 2 f's in REFUS, i.e it should be "REFFUS THE DOG".
   
