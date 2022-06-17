@@ -69,6 +69,9 @@ body {
   font-weight: 400;
   font-size: 12px;
   color: #7A8594;
+}
+
+.cardContent span.cardDate.cardDate:hover {
   opacity: 0.7;
 }
 /*# sourceMappingURL=styles.css.map */
