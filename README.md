@@ -51,3 +51,8 @@ Differences:
      
   Improvements:
      =>I think the "cardDescriptions" text "Refus the Dog" should have 2 f's in Refus, i.e it should be "Reffus the Dog".
+  
+  
+  Part 2
+  Solution cade: visit link: https://github.com/rahullSingh/Epsilon-Task
+  Solution webpage: visit link: https://rahullsingh.github.io/Epsilon-Task/
