@@ -53,6 +53,13 @@ Differences:
     IN UI specs "REFFUS THE DOG" is in Capital form But,
     IN THE CODED RESULT it is small(Refus the Dog).
     
+  13TH:
+    IN UI specs "cardDate" date is given as 02/28/2019 BUT,
+    IN THE CODED RESULT it is 2/28/19.
+    
+  14TH:
+    IN UI specs "cardDate" has text as "bfrost" BUT, 
+    IN THE CODED RESULT it is "bfront".
     
   Improvements:
      =>I think the "cardDescriptions" text "REFUS THE DOG" should have 2 f's in REFUS, i.e it should be "REFFUS THE DOG".
