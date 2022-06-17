@@ -51,7 +51,7 @@ Differences:
      
   12TH:
     IN UI specs "REFFUS THE DOG" is in Capital form But,
-    IN THE CODED RESULT it is small.
+    IN THE CODED RESULT it is small(Refus the Dog).
     
     
   Improvements:
